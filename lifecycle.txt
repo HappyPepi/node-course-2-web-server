@@ -1,6 +1,9 @@
-git status
-git add .
-git status
-git commit -m "comment"
-git push
-git push heroku
+1. Create new repository on github
+2. git remote add origin https://github.com/HappyPepi/node-course-2-chat-app.git
+3. git status
+4. git add .
+5. git status
+6. git commit -m "Initial commit"
+7. git push -u origin master
+8. heroku Create
+9. git push heroku master
